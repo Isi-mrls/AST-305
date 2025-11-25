@@ -5,3 +5,5 @@ The project contains the following files and folders:
 - **Proyecto_4_MC.ipynb:** Code used to generate all the plots.
 - **Docs:** Documents containing the necessary information to construct the distributions and define the IMF.
 - **Plots:** All the graphs obtained.
+- **Monte_Carlo_AST305.pdf:** Slides
+- **Flowchart.pdf:** Flowrchart of code
